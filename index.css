@@ -34,6 +34,7 @@ h1 {
     box-shadow: 0 0 10px #000;
     flex: 1 1 200px;
     max-width: 220px;
+    border: solid 1px red;
 }
 
 .card img {
